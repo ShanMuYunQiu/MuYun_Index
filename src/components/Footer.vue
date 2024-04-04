@@ -23,6 +23,9 @@
           &amp;
           {{ siteIcp }}
         </a>
+        <!-- 萌ICP备案 -->
+        &amp;
+        <a href="https://icp.gov.moe/?keyword=20248848" target="_blank">萌ICP备20248848号</a>
       </div>
       <div v-else class="lrc">
         <Transition name="fade" mode="out-in">
