@@ -88,7 +88,7 @@ Now using `HarmonyOS Sans` open source font, using font splitting to improve loa
 
 >Because this site's `CDN` has opened anti-leech, **non-site domain name is not accessible**, please change the font import link to the following content, otherwise **custom fonts will be invalid**
 >
->`https://cdn.jsdelivr.net/gh/imsyy/file/font/HarmonyOS_Sans/regular.min.css`
+>`https://jsd.vxo.im/gh/imsyy/file/font/HarmonyOS_Sans/regular.min.css`
 
 <details>
 <summary>old way</summary>
