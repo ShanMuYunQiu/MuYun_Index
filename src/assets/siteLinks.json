@@ -5,14 +5,24 @@
     "link": "https://blog.muyun.space/"
   },
   {
-    "icon": "Book",
+    "icon": "Terminal",
     "name": "博客后台",
     "link": "https://bk.muyun.space/"
   },
   {
-    "icon": "Book",
+    "icon": "Comments",
     "name": "评论管理",
     "link": "https://waline.muyun.space/ui/"
+  },
+  {
+    "icon": "Fa500Px",
+    "name": "500px",
+    "link": "https://500px.com.cn/ShanMuYunQiu"
+  },
+  {
+    "icon": "Images",
+    "name": "图虫",
+    "link": "https://tuchong.com/28695963/"
   },
   {
     "icon": "Compass",
